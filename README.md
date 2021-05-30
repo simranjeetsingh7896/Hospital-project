@@ -1,5 +1,5 @@
 # Geraldton District Hospital - Case Study 
-n Geraldton District Hospital website user can look at department timings and information, so they can walk in to hospital for treatment.For volunteers, they can look at volunteer opportunities ,if they are interested they can register and fill "Volunteer Applications". Hospital Management can update or delete department timings and volunteer opportunities accordingly.
+In Geraldton District Hospital website user can look at department timings and information, so they can walk in to hospital for treatment.For volunteers, they can look at volunteer opportunities ,if they are interested they can register and fill "Volunteer Applications". Hospital Management can update or delete department timings and volunteer opportunities accordingly.
 ![hospital](https://user-images.githubusercontent.com/71602162/119547892-4935f280-bdb3-11eb-8e27-15ee768b3f3e.png)
 
 ## Technologies Used
