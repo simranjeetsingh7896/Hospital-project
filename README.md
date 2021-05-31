@@ -11,6 +11,8 @@ In Geraldton District Hospital website user can look at department timings and i
 - .NetFramework
 - CSS
 - Database
+- Javascript
+- HTML
 
 ## Earlier Website's Version Problems
 - No online Volunteer Application form was there 
